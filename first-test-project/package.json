@@ -1,0 +1,14 @@
+{
+  "name": "first-test-project",
+  "version": "1.0.0",
+  "description": "first vite project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mekrou",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.12"
+  }
+}
